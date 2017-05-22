@@ -4,17 +4,17 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>software.committed.dockerfile.maven</groupId>
-	<artifactId>mvn-sbt152</artifactId>
-	<version>1.5.2T</version>
+	<artifactId>mvn-sbt153</artifactId>
+	<version>1.5.3-jdk8</version>
 	<packaging>jar</packaging>
 
-	<name>mvn-sb152</name>
+	<name>mvn-sb153-jdk8</name>
 	<description></description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.5.2.RELEASE</version>
+		<version>1.5.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
