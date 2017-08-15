@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t committed/mvn-sbt153-jdk7 .
+docker build -t committed/mvn-sbt156-jdk7 .
